@@ -420,19 +420,19 @@ video {
 @font-face {
   font-family: "Shabnam";
 
-  src: url("/utils/font/Shabnam.ttf");
+  src: url("../utils/font/Shabnam.ttf");
 }
 
 @font-face {
   font-family: "ShabnamBold";
 
-  src: url("/utils/font/ShabnamBold.ttf");
+  src: url("../utils/font/ShabnamBold.ttf");
 }
 
 @font-face {
   font-family: "ShabnamLight";
 
-  src: url("/utils/font/ShabnamLight.ttf");
+  src: url("../utils/font/ShabnamLight.ttf");
 }
 
 *, ::before, ::after {
